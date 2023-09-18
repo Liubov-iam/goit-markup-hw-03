@@ -131,6 +131,7 @@ address {
         
                 letter-spacing: 0.03em;
                 text-transform: uppercase;
+               
 } 
                 
 .logo-web {
@@ -148,6 +149,7 @@ address {
 }
 .logo-studio {
     color: var(--main-title-color);
+    margin-right: 76px;
 }
 
 .header-link {
